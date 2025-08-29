@@ -1,7 +1,7 @@
 // Google Apps Script API integration
 // This file contains the frontend integration for Google Apps Script backend
 
-const GAS_API_BASE_URL = 'YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL'; // Replace with your actual GAS web app URL
+const GAS_API_BASE_URL = 'https://script.google.com/macros/s/AKfycbx-FZAW7XYpWlxdrC489bzi6lxG3npiXLZMuDZCGXF4YeOXWDK-c1sT1-rCfVt-XQq11w/exec'; // Replace with your actual GAS web app URL
 
 export interface UploadData {
   file: File;
